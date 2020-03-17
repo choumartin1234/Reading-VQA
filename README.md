@@ -89,3 +89,21 @@ python main.py --root=/data/VisualGenome --stage=train --cuda --load=./checkpoin
 # run `python scripts/extract.py --help` for more information
 python scripts/extract.py --root=/path/to/your_data_root --cuda
 ```
+
+
+
+#### Reference 
+
+1. [Ben-Younes, Hedi, et al. "Mutan: Multimodal tucker fusion for visual question answering." Proceedings of the IEEE international conference on computer vision. 2017.](http://openaccess.thecvf.com/content_ICCV_2017/papers/Ben-younes_MUTAN_Multimodal_Tucker_ICCV_2017_paper.pdf)
+2. [Antol, Stanislaw, et al. "Vqa: Visual question answering." Proceedings of the IEEE international conference on computer vision. 2015.](http://openaccess.thecvf.com/content_iccv_2015/papers/Antol_VQA_Visual_Question_ICCV_2015_paper.pdf)
+
+
+
+#### Acknowledgement
+
+My advisor is Professor Xiaolin Hu.
+
+This Project is modified and extended based on "Introduction to Deep Learning" course project. 
+
+My teammates are Bohan Chen (@acyume), Zhuoer Feng
+
